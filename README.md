@@ -26,3 +26,9 @@ high-confidence malicious infrastructure.
 This analysis simulates how cyber intelligence analysts assess threat feeds
 to support early detection, incident response, and defensive decision-making.
 
+## Scripts
+**threat_intel_analysis.py**: Performs initial threat intel analysis (country frequency, threat types, high-confidence threats).
+**threat_intel_dashboard.py**: Generates visual dashboards (country distribution, threat type frequency, confidence vs report volume).
+**soc_alerts.py**: Simulates SOC triage by assigning severity (MEDIUM/HIGH/CRITICAL) and producing a prioritized alert queue.
+
+
