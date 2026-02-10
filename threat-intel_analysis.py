@@ -1,3 +1,12 @@
+"""
+Threat Intelligence Analysis Script
+Author: Tomiwa Olanrewaju
+Description:
+Analyzes OSINT-style malicious IP data to identify
+high-risk regions, threat vectors, and high-confidence
+malicious infrastructure.
+"""
+
 import pandas as pd
 from io import StringIO
 
